@@ -1,8 +1,9 @@
 # BluDash
-
+![image](https://user-images.githubusercontent.com/63401208/209425548-3e3b2ab5-5e02-4d3a-b496-431bb2f8f798.png)![My project (1)](https://user-images.githubusercontent.com/63401208/209425764-85524848-2eeb-4511-a5c3-2a828c4a178e.png)
 This app allows you to control your arduino over bluetooth, This offers more features such as voice control, customisable commands, 3 Sliders and Additional Buttons for more operations. Moreover you can also view your terminal output at the same time. Drive Power for adjust steering sensitivity. Also includes 2 dedicated buttons for rotating
 It's very easy to configure, it sends phrases and texts for every operation to your Arduino.
-![image](https://user-images.githubusercontent.com/63401208/209425548-3e3b2ab5-5e02-4d3a-b496-431bb2f8f798.png)
+
+
 
 The code fed into our Robocon robots helps it interface with the app in real time, choose from a variety of modes and initiate an auto-lock sequence so that the robot can 
 take down targets with precision, these parameters can be altered precisely in real time.

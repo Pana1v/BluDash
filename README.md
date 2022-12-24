@@ -1,5 +1,7 @@
 # BluDash
-![image](https://user-images.githubusercontent.com/63401208/209425548-3e3b2ab5-5e02-4d3a-b496-431bb2f8f798.png)![My project (1)](https://user-images.githubusercontent.com/63401208/209425764-85524848-2eeb-4511-a5c3-2a828c4a178e.png)
+![My project](https://user-images.githubusercontent.com/63401208/209425782-abfe3a82-39a4-4d4b-9d9c-255cacafe63b.png)
+
+![image](https://user-images.githubusercontent.com/63401208/209425548-3e3b2ab5-5e02-4d3a-b496-431bb2f8f798.png)
 This app allows you to control your arduino over bluetooth, This offers more features such as voice control, customisable commands, 3 Sliders and Additional Buttons for more operations. Moreover you can also view your terminal output at the same time. Drive Power for adjust steering sensitivity. Also includes 2 dedicated buttons for rotating
 It's very easy to configure, it sends phrases and texts for every operation to your Arduino.
 

@@ -8,6 +8,7 @@ The code fed into our Robocon robots helps it interface with the app in real tim
 take down targets with precision, these parameters can be altered precisely in real time.
 While other teams use PS2 controllers, this app gives us the flexibilty to make better,faster control system, 
 far more advanced than one you would get from an off the shelf controller.
+![WhatsApp Image 2022-12-24 at 12 45 50](https://user-images.githubusercontent.com/63401208/209425721-d5bbf806-97c3-491f-9534-f447c1200511.jpg)
 
 Sample Code Available Here : https://github.com/Pana1v/BluDash
 
